@@ -1,6 +1,7 @@
 # Nina Termoussi – Portfolio
 
 Ik ben tweedejaars student HBO Associate Degree Software Development (2024-2026) met een passie voor front-end development, webshops bouwen en het ontwerpen van gebruiksvriendelijke interfaces.
+Momenteel werk ik aan een volledige portfolio website, daarom is mijn portfolio voorlopig als PDF beschikbaar.
 
 ## Skills
 
@@ -46,6 +47,7 @@ Ik ben tweedejaars student HBO Associate Degree Software Development (2024-2026)
 # Nina Termoussi – Portfolio
 
 I am a second-year student in the HBO Associate Degree Software Development program (2024–2026), with a passion for front-end development, building webshops, and designing user-friendly interfaces.
+I am currently working on a full portfolio website, so my portfolio is temporarily available as a PDF.
 
 ## Skills
 
